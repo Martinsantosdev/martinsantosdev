@@ -1,62 +1,40 @@
-<!-- HEADER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=260&section=header&text=Martinssantosdev&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p><!-- TYPING --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=FF512F&center=true&vCenter=true&width=800&lines=Backend+Developer;Building+things+that+actually+work;Focused+on+real+systems"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=250&section=header&text=Martinssantosdev&fontSize=48&fontColor=ffffff"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=800&color=FF512F&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+real+systems;Focused+on+execution"/>
 </p>---
 
-👋 About Me
+👨‍💻 About
 
 <p align="center">
-I like building systems that solve real problems.<br>
-Simple, functional, and efficient.
+I build systems that solve real problems.<br>
+Simple. Functional. Efficient.
 </p>---
 
-⚡ Tech Radar
+🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,html,nodejs,mysql" />
 </p>---
 
-🧠 Dev Energy
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-100%25-ff512f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Consistency-99%25-dd2476?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Discipline-∞-000000?style=for-the-badge"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=radical&hide_border=true"/>
 </p>---
 
-📊 Live Stats
+🧠 Mindset
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=radical&hide_border=true"/>
+Consistency beats motivation.<br>
+Build. Improve. Repeat.
 </p>---
 
-🔥 Featured Mindset
+🚀 Featured Project (IMPORTANTE)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=600&lines=Build+real+things;Stay+consistent;Focus+on+execution"/>
-</p>---
-
-🧪 Dev Playground
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building-ff512f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next-Step-APIs-dd2476?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Backend-000000?style=for-the-badge"/>
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Martinssantosdev/Martinssantosdev/blob/output/github-contribution-grid-snake.svg"/>
-</p>---
-
-🎯 Current Mission
-
-<p align="center">
-Turning knowledge into real backend projects.<br>
-No shortcuts. Just progress.
+⚡ Em breve: API backend real com autenticação
 </p>---
 
 🌐 Connect
@@ -67,6 +45,6 @@ No shortcuts. Just progress.
   </a>
 </p>---
 
-<!-- FOOTER --><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer"/>
 </p>
