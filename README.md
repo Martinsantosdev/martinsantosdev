@@ -1,63 +1,74 @@
-<!-- HEADER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Martinssantosdev&fontSize=50&fontColor=ffffff"/>
-</p><!-- SUBTITLE --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+systems+that+work;Focused+on+real+results"/>
+<!-- SISTEMA BOOT --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=700&lines=booting+system...;loading+developer+profile...;initializing+backend+mindset...;access+granted."/>
 </p>---
 
-👨‍💻 About
+> system: online
+> user: Martinssantosdev
+> role: backend.dev
+> status: building
+
+---
+
+🖥️ TERMINAL
+
+$ whoami
+Martinssantosdev
+
+$ focus
+backend systems / APIs / problem solving
+
+$ mindset
+build -> break -> improve -> repeat
+
+$ current_stack
+HTML / JavaScript
+
+$ next_upgrade
+Node.js / Databases / Real APIs
+
+---
+
+📂 SYSTEM MODULES
+
+[ core ]
+✔ logic
+✔ consistency
+✔ execution
+
+[ loading... ]
+◼ backend architecture
+◼ database design
+◼ authentication systems
+
+---
+
+🧬 LIVE DATA
 
 <p align="center">
-I like building things that actually work. <br>
-Clean logic, real systems, and constant improvement.
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>---
 
-⚙️ Tech
+🧠 CORE LOOP
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js" />
-</p>---
+while (true) {
+  learn();
+  build();
+  improve();
+}
 
-🚧 Currently working on
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,css,mysql" />
-</p>---
-
-📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
-
-🎯 Focus
-
-<p align="center">
-Backend development <br>
-APIs <br>
-Scalable systems
-</p>---
-
-🧠 Philosophy
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Clarity+over+complexity;Build.+Test.+Improve.;Consistency+wins"/>
-</p>---
-
-🐍 Activity
+🐍 ACTIVITY STREAM
 
 <p align="center">
   <img src="https://github.com/Martinssantosdev/Martinssantosdev/blob/output/github-contribution-grid-snake.svg"/>
 </p>---
 
-🌐 Contact
+🔐 ACCESS POINT
 
-<p align="center">
-  <a href="https://github.com/Martinssantosdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>---
+github.com/Martinssantosdev
 
-<!-- FOOTER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+---
+
+> log: this is only the beginning...
