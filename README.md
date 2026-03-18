@@ -1,64 +1,63 @@
-<!-- BANNER COLORIDO --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=250&section=header&text=Martinssantosdev&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p><!-- TYPING ANIMATION --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=FF7E5F&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;JavaScript+Enthusiast;Future+Engineer;Building+My+Path"/>
+<!-- HEADER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Martinssantosdev&fontSize=50&fontColor=ffffff"/>
+</p><!-- SUBTITLE --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+systems+that+work;Focused+on+real+results"/>
 </p>---
 
-👋 Hey, I'm Martinssantosdev
+👨‍💻 About
 
 <p align="center">
-💻 Passionate about backend development <br>
-🚀 Programming since 13 years old <br>
-🔥 Focused on growth and consistency
+I like building things that actually work. <br>
+Clean logic, real systems, and constant improvement.
 </p>---
 
-🚀 Tech Stack
+⚙️ Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,js" />
 </p>---
 
-📚 Currently Learning
+🚧 Currently working on
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,css,mysql" />
 </p>---
 
-📊 GitHub Stats
+📊 Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
 
-🎯 Goals
-
-- 💼 Get my first job as a backend developer
-- 🌍 Work on real-world projects
-- 🚀 Become a high-level developer
-
----
-
-🧠 Mindset
+🎯 Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FEB47B&center=true&vCenter=true&width=500&lines=Consistency+beats+motivation;Build.+Learn.+Repeat.;Stay+hungry+for+growth"/>
+Backend development <br>
+APIs <br>
+Scalable systems
 </p>---
 
-🐍 Contribution Snake
+🧠 Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Clarity+over+complexity;Build.+Test.+Improve.;Consistency+wins"/>
+</p>---
+
+🐍 Activity
 
 <p align="center">
   <img src="https://github.com/Martinssantosdev/Martinssantosdev/blob/output/github-contribution-grid-snake.svg"/>
 </p>---
 
-📫 Contact
+🌐 Contact
 
 <p align="center">
   <a href="https://github.com/Martinssantosdev">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:feb47b,100:ff7e5f&height=120&section=footer"/>
+<!-- FOOTER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
