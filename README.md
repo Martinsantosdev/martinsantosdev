@@ -1,31 +1,33 @@
 <!-- HERO BANNER --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=280&section=header&text=Martinssantosdev&fontSize=60&fontColor=ffffff&animation=twinkling"/>
-</p><!-- ANIMATED TYPO --><p align="center">
+</p><!-- TYPING ANIMATION --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend+Developer;Building+real+systems;Clean+code+%7C+Functional+logic;Projects+that+impress"/>
 </p>---
 
 👋 Welcome
 
 <p align="center">
-I focus on creating **functional, scalable backend systems**.<br>
+I focus on **creating functional and scalable backend systems**.<br>
 Clean logic, real solutions, continuous improvement, and professional execution.
 </p>---
 
-🚀 Featured Project
+🚀 Featured Projects
 
 <p align="center">
 <a href="https://github.com/Martinssantosdev/meu-projeto-backend" target="_blank">
 <img src="https://img.shields.io/badge/FEATURED-Backend%20API-FF512F?style=for-the-badge"/>
 </a>
 </p><p align="center">
-⚡ Real project with: authentication, database, scalable architecture, and API endpoints ready for production.<br>
-🎯 Check the repo for demo & live preview!
+<img src="https://via.placeholder.com/600x200.png?text=Project+Preview+GIF+or+Image" alt="Project Preview" />
+</p><p align="center">
+⚡ Real backend API with authentication, database, and scalable endpoints.<br>
+🎯 Check the repo for live demo!
 </p>---
 
 ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql,git,docker,ts" />
 </p>---
 
 🧠 Philosophy
@@ -36,11 +38,12 @@ Clean logic, real solutions, continuous improvement, and professional execution.
 💡 <strong>Consistency over motivation.</strong>
 </p>---
 
-📊 GitHub Stats
+📊 GitHub Mini Dashboard
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=radical&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=radical&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=radical&hide_border=true"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Martinssantosdev&theme=radical"/>
 </p>---
 
 🐍 Contribution Snake
