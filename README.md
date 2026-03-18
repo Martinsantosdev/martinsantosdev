@@ -1,20 +1,39 @@
+<!-- HERO BANNER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=280&section=header&text=Martinssantosdev&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+</p><!-- ANIMATED TYPO --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend+Developer;Building+real+systems;Clean+code+%7C+Functional+logic;Projects+that+impress"/>
+</p>---
+
+👋 Welcome
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=250&section=header&text=Martinssantosdev&fontSize=48&fontColor=ffffff"/>
+I focus on creating **functional, scalable backend systems**.<br>
+Clean logic, real solutions, continuous improvement, and professional execution.
+</p>---
+
+🚀 Featured Project
+
+<p align="center">
+<a href="https://github.com/Martinssantosdev/meu-projeto-backend" target="_blank">
+<img src="https://img.shields.io/badge/FEATURED-Backend%20API-FF512F?style=for-the-badge"/>
+</a>
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=800&color=FF512F&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+real+systems;Focused+on+execution"/>
+⚡ Real project with: authentication, database, scalable architecture, and API endpoints ready for production.<br>
+🎯 Check the repo for demo & live preview!
 </p>---
 
-👨‍💻 About
+⚡ Tech Stack
 
 <p align="center">
-I build systems that solve real problems.<br>
-Simple. Functional. Efficient.
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql,git,docker" />
 </p>---
 
-🚀 Tech Stack
+🧠 Philosophy
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,nodejs,mysql" />
+💡 <strong>Clarity over complexity.</strong><br>
+💡 <strong>Execution beats ideas.</strong><br>
+💡 <strong>Consistency over motivation.</strong>
 </p>---
 
 📊 GitHub Stats
@@ -24,27 +43,31 @@ Simple. Functional. Efficient.
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=radical&hide_border=true"/>
 </p>---
 
-🧠 Mindset
+🐍 Contribution Snake
 
 <p align="center">
-Consistency beats motivation.<br>
-Build. Improve. Repeat.
+  <img src="https://github.com/Martinssantosdev/Martinssantosdev/blob/output/github-contribution-grid-snake.svg"/>
 </p>---
 
-🚀 Featured Project (IMPORTANTE)
+🎨 Playground & Energy
 
 <p align="center">
-⚡ Em breve: API backend real com autenticação
+<img src="https://img.shields.io/badge/Status-Building-FF512F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next-Step-APIs-DD2476?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Backend-7F00FF?style=for-the-badge"/>
 </p>---
 
 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/Martinssantosdev">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/Martinssantosdev">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:valdemirm9521@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer"/>
+<!-- FOOTER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD2476,100:FF512F&height=150&section=footer"/>
 </p>
