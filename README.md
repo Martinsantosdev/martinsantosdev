@@ -1,100 +1,64 @@
-<!-- BANNER ANIMADO --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=Martinssantosdev&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
-</p><!-- FRASE IMPACTO --><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=I+build+logic.;I+solve+problems.;Backend+is+my+path.;Consistency+beats+talent."/>
+<!-- BANNER COLORIDO --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=250&section=header&text=Martinssantosdev&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p><!-- TYPING ANIMATION --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=FF7E5F&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;JavaScript+Enthusiast;Future+Engineer;Building+My+Path"/>
 </p>---
 
-🧠 WHO AM I
-
-> name: Martinssantosdev
-> role: Backend Developer (in progress)
-> started: 13 years old
-> mindset: obsessed with evolution
-
----
-
-⚡ CURRENT STATE
-
-+ JavaScript
-+ HTML
-! Learning CSS
-# Future: Node.js / APIs / Databases
-
----
-
-🧬 SYSTEM STATUS
-
-[██████████░░░░░░░░] evolving...
-
----
-
-🚀 PROJECT PHILOSOPHY
-
-I don't just write code.
-
-I build systems.
-I break problems.
-I learn fast.
-I execute.
-
----
-
-🧰 TECH STACK
+👋 Hey, I'm Martinssantosdev
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,nodejs,mysql" />
+💻 Passionate about backend development <br>
+🚀 Programming since 13 years old <br>
+🔥 Focused on growth and consistency
 </p>---
 
-📊 DATA
+🚀 Tech Stack
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,js" />
 </p>---
 
-🧠 MINDSET
+📚 Currently Learning
 
-while(alive) {
-   improve();
-   build();
-   repeat();
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,nodejs,mysql" />
+</p>---
 
----
+📊 GitHub Stats
 
-🎯 TARGET
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Martinssantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinssantosdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>---
 
-+ First backend job
-+ Real-world systems
-+ Financial independence
+🎯 Goals
 
----
-
-🧪 NEXT EVOLUTION
-
-- REST APIs
-- Authentication systems
-- Databases
-- Scalable backend
+- 💼 Get my first job as a backend developer
+- 🌍 Work on real-world projects
+- 🚀 Become a high-level developer
 
 ---
 
-🐍 ACTIVITY
+🧠 Mindset
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FEB47B&center=true&vCenter=true&width=500&lines=Consistency+beats+motivation;Build.+Learn.+Repeat.;Stay+hungry+for+growth"/>
+</p>---
+
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Martinssantosdev/Martinssantosdev/blob/output/github-contribution-grid-snake.svg"/>
 </p>---
 
-📡 CONTACT
-
-github.com/Martinssantosdev
-
----
-
-⚠️ FINAL LOG
-
-> This is not my final form.
+📫 Contact
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
+  <a href="https://github.com/Martinssantosdev">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:feb47b,100:ff7e5f&height=120&section=footer"/>
 </p>
