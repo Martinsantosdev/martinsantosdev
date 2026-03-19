@@ -93,6 +93,9 @@ Clean logic, real solutions, continuous improvement, and professional execution.
 <a href="mailto:valdemirm9521@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/valdemir-martins-almeida-santos-6315153a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
