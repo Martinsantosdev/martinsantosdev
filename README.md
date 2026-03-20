@@ -67,8 +67,8 @@ const valdemir = {
 🎧 Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qxhar42z4yptzwr675fzslqjfa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=53b14f&bar_color_cover=false" />
-</p>---
+  <img src="https://novatorem.vercel.app/api/spotify" />
+</p>
 
 🧠 Philosophy
 
