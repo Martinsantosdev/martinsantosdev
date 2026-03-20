@@ -1,77 +1,71 @@
-<!-- HEADER FORTE -->
+<!-- BANNER ESTÉTICO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=300&section=header&text=VALDEMIR%20SANTOS&fontSize=50&fontColor=00F7FF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Valdemir%20Santos&fontSize=50&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Construindo+sistemas+reais;Transformando+ideias+em+código;Evoluindo+todos+os+dias" />
-</p>
+<h2 align="center">⚡ Desenvolvedor em Formação</h2>
 
 ---
 
-# 🧠 Valdemir Martins Almeida Santos
+<div align="center">
 
-**`Desenvolvedor em Formação`**
+💻 Criando projetos reais
+🚀 Evoluindo todos os dias
+🧠 Focado em desenvolvimento web
 
-```diff
-+ Não apenas aprendendo programação
-+ Mas construindo base para algo maior
-```
-
-Sou desenvolvedor em evolução constante, focado em criar projetos reais e evoluir minhas habilidades todos os dias.
-Tenho interesse em desenvolvimento web, sistemas e tecnologia.
+</div>
 
 ---
 
-## ⚡ STATUS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martinsantosdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martinsantosdev&theme=tokyonight&hide_border=true&background=000000"/>
-</p>
-
----
-
-## 🧬 ATIVIDADE (perfil vivo)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Martinsantosdev&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
-</p>
-
----
-
-## 🐍 SISTEMA ATIVO
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌐 CONEXÕES
-
-<p align="center">
-    <a href="https://github.com/Martinsantosdev">
-        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/valdemir-martins-almeida-santos-6315153a0/">
-        <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-    </a>
-</p>
-
----
-
-## 🧠 MENTALIDADE
+## 🧩 Sobre mim
 
 ```txt
-Disciplina vence talento.
-Consistência cria resultado.
-Evolução é obrigatória.
+Sou um desenvolvedor em formação, focado em aprender na prática.
+Gosto de construir projetos e entender como as coisas funcionam de verdade.
+```
+
+---
+
+## ⚙️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,node,python,git" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Martinsantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Martinsantosdev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Conexões
+
+<p align="center">
+  <a href="https://github.com/Martinsantosdev">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/valdemir-martins-almeida-santos-6315153a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## ✨ Destaque
+
+```txt
+Não estou apenas aprendendo.
+Estou construindo algo maior.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:000000&height=200&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
