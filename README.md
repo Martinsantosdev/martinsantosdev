@@ -1,81 +1,64 @@
-🚀 Valdemir Martins Santos
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Front-End+Developer;JavaScript+Focused;Building+Real+Projects;Always+Learning+🚀" />
+<h1 align="center">⚡ Developer in Progress</h1><p align="center">
+  <i>Transformando ideias em interfaces modernas e funcionais.</i>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Martinsantosdev&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Front-End+Developer;Linux+User+🐧;Always+Learning...;Building+Real+Projects" />
 </p>---
 
 🧠 About Me
 
-const valdemir = {
-  role: "Front-End Developer",
-  focus: "JavaScript",
-  skills: ["HTML", "CSS", "JavaScript"],
-  learning: ["Advanced JS", "APIs", "React"],
-  mindset: "Consistency beats motivation",
-  goal: "Become a professional developer"
-}
+> whoami
+front-end developer
+
+> skills
+HTML / CSS / JavaScript / Linux
+
+> mindset
+focus + consistency + evolution
 
 ---
 
-⚡ Tech Stack
+⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux" />
 </p>---
 
-📊 GitHub Analytics
+🖥️ System & Workflow
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Martinsantosdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinsantosdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Martinsantosdev&theme=tokyonight&hide_border=true" />
-</p>---
-
-🧩 Featured Projects
-
-🚧 Currently building real-world projects:
-
-- 📋 Task Manager (CRUD + LocalStorage)
-- 🌦️ Weather App (API Integration)
-- 🎬 Movie Finder
-- 🛒 Mini E-commerce
+$ os: Linux 🐧
+$ shell: bash
+$ editor: vscode
+$ focus: clean UI + performance
 
 ---
 
-📚 Currently Learning
+🚀 Featured Projects
+
+🌦️ weather-web     → API + real-time data
+🎮 secret-game     → logic + interaction
+📝 todo-list       → productivity + storage
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/APIs-REST-blue?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/React-Next Step-61DAFB?style=for-the-badge&logo=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>---
 
-🌐 Connect with Me
+🧩 Philosophy
 
-<p align="center">
-  <a href="https://github.com/Martinsantosdev">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/valdemir-martins-almeida-santos-6315153a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>---
+«“Detalhes constroem grandes projetos.”»
 
-🎧 Now Playing
+---
 
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" />
-</p>
+⚡ Status
 
-🧠 Philosophy
-
-«Code. Learn. Build. Repeat.»
+loading skills... ██████████░░░░ 70%
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  🚀 Building. Learning. Improving.
 </p>
