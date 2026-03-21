@@ -1,49 +1,51 @@
-<h1 align="center">✨ Miguel Dev</h1><p align="center">
+<h1 align="center">✨ Martins Dev</h1><p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+</p><p align="center">
   Desenvolvendo experiências web modernas e bem construídas
 </p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&size=22&lines=Front-End+Developer;JavaScript+%7C+HTML+%7C+CSS;Linux+User+🐧;Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&size=22&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Em+formação+🚀;Always+Improving" />
 </p>---
 
 🚀 Sobre mim
 
-Sou um desenvolvedor focado em criar interfaces simples, bonitas e funcionais.
-Busco sempre melhorar minha lógica, design e organização de código.
+Sou um desenvolvedor em formação, focado em criar interfaces simples, bonitas e funcionais.
+Busco evoluir constantemente minha lógica, design e organização de código, sempre construindo projetos práticos.
 
 ---
 
-🛠️ Tecnologias
+🛠️ Tecnologias em aprendizado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p><p align="center">
+  📚 Em constante evolução nessas tecnologias
 </p>---
-
-💼 Projetos
-
-🌦️ Weather Website
-
-Aplicação de clima com consumo de API em tempo real
-
-🎮 Jogo do Número Secreto
-
-Foco em lógica e interação com o usuário
-
-📝 To-Do List
-
-Gerenciamento de tarefas com armazenamento local
-
----
 
 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Martinsantosdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Martinsantosdev&theme=tokyonight&hide_border=true" />
+</p>---
+
+🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/Martinsantosdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/valdemir-martins-almeida-santos-6315153a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:valdemirm9521@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>---
 
 🌱 Evolução
 
-Estou constantemente aprendendo e criando novos projetos.
-Cada projeto é uma evolução.
+Estou em constante aprendizado e construção da minha base como desenvolvedor.
+Cada linha de código representa progresso.
 
 ---
 
