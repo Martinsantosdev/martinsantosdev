@@ -1,64 +1,67 @@
-<h1 align="center">⚡ Developer in Progress</h1><p align="center">
-  <i>Transformando ideias em interfaces modernas e funcionais.</i>
+<h1 align="center">⚡ MIGUEL SYSTEM</h1><p align="center">
+  <i>Initializing developer core...</i>
 </p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Front-End+Developer;Linux+User+🐧;Always+Learning...;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&size=25&lines=Miguel+Dev+System;Front-End+Engineer;Linux+Powered+🐧;Building+Clean+Code" />
 </p>---
 
-🧠 About Me
+🧠 CORE PROFILE
 
-> whoami
-front-end developer
+user@miguel:~$ whoami
+miguel.dev
 
-> skills
-HTML / CSS / JavaScript / Linux
+user@miguel:~$ skills
+> html
+> css
+> javascript
+> linux
 
-> mindset
-focus + consistency + evolution
+user@miguel:~$ mindset
+> precision
+> consistency
+> evolution
 
 ---
 
-⚙️ Tech Stack
+⚙️ SYSTEM MODULES
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,linux" />
 </p>---
 
-🖥️ System & Workflow
+🖥️ ACTIVE PROCESSES
 
-$ os: Linux 🐧
-$ shell: bash
-$ editor: vscode
-$ focus: clean UI + performance
+[RUNNING] weather-system     → API integration
+[RUNNING] secret-game       → logic engine
+[RUNNING] todo-core         → task manager
 
----
-
-🚀 Featured Projects
-
-🌦️ weather-web     → API + real-time data
-🎮 secret-game     → logic + interaction
-📝 todo-list       → productivity + storage
+[STATUS] improving skills...
 
 ---
 
-📊 GitHub Stats
+📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true" />
 </p>---
 
-🧩 Philosophy
+🧩 DEV PHILOSOPHY
 
-«“Detalhes constroem grandes projetos.”»
+«“Não é sobre fazer rápido.
+É sobre fazer bem feito.”»
 
 ---
 
-⚡ Status
+⚡ SYSTEM STATUS
 
-loading skills... ██████████░░░░ 70%
+miguel@system:~$ evolution --status
+
+progress: ██████████░░░░ 72%
+mode: focused
+next: level up
 
 ---
 
 <p align="center">
-  🚀 Building. Learning. Improving.
+  ⚡ MIGUEL SYSTEM ACTIVE
 </p>
