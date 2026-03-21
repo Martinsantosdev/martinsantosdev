@@ -11,7 +11,7 @@
 Sou um desenvolvedor em formação, focado em criar interfaces simples, bonitas e funcionais.
 Busco evoluir constantemente minha lógica, design e organização de código, sempre construindo projetos práticos.
 
----
+
 
 🛠️ Tecnologias em aprendizado
 
@@ -47,13 +47,13 @@ Busco evoluir constantemente minha lógica, design e organização de código, s
 Estou em constante aprendizado e construção da minha base como desenvolvedor.
 Cada linha de código representa progresso.
 
----
+
 
 💭 Filosofia
 
 «“Simplicidade é o último nível da sofisticação.”»
 
----
+
 
 <p align="center">
   ⚡ Feito com foco, calma e consistência
