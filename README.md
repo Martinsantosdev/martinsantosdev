@@ -1,67 +1,58 @@
-<h1 align="center">⚡ MIGUEL SYSTEM</h1><p align="center">
-  <i>Initializing developer core...</i>
+<h1 align="center">✨ Miguel Dev</h1><p align="center">
+  Desenvolvendo experiências web modernas e bem construídas
 </p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&size=25&lines=Miguel+Dev+System;Front-End+Engineer;Linux+Powered+🐧;Building+Clean+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&size=22&lines=Front-End+Developer;JavaScript+%7C+HTML+%7C+CSS;Linux+User+🐧;Always+Improving" />
 </p>---
 
-🧠 CORE PROFILE
+🚀 Sobre mim
 
-user@miguel:~$ whoami
-miguel.dev
-
-user@miguel:~$ skills
-> html
-> css
-> javascript
-> linux
-
-user@miguel:~$ mindset
-> precision
-> consistency
-> evolution
+Sou um desenvolvedor focado em criar interfaces simples, bonitas e funcionais.
+Busco sempre melhorar minha lógica, design e organização de código.
 
 ---
 
-⚙️ SYSTEM MODULES
+🛠️ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,linux" />
 </p>---
 
-🖥️ ACTIVE PROCESSES
+💼 Projetos
 
-[RUNNING] weather-system     → API integration
-[RUNNING] secret-game       → logic engine
-[RUNNING] todo-core         → task manager
+🌦️ Weather Website
 
-[STATUS] improving skills...
+Aplicação de clima com consumo de API em tempo real
+
+🎮 Jogo do Número Secreto
+
+Foco em lógica e interação com o usuário
+
+📝 To-Do List
+
+Gerenciamento de tarefas com armazenamento local
 
 ---
 
-📊 SYSTEM ANALYTICS
+📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>---
 
-🧩 DEV PHILOSOPHY
+🌱 Evolução
 
-«“Não é sobre fazer rápido.
-É sobre fazer bem feito.”»
+Estou constantemente aprendendo e criando novos projetos.
+Cada projeto é uma evolução.
 
 ---
 
-⚡ SYSTEM STATUS
+💭 Filosofia
 
-miguel@system:~$ evolution --status
-
-progress: ██████████░░░░ 72%
-mode: focused
-next: level up
+«“Simplicidade é o último nível da sofisticação.”»
 
 ---
 
 <p align="center">
-  ⚡ MIGUEL SYSTEM ACTIVE
+  ⚡ Feito com foco, calma e consistência
 </p>
